@@ -1,4 +1,4 @@
-# Mobica-Lens-App
+# Mobica-Lens-App (Data Science Visual Search App)
 Mobica Lens is a Flutter application that allows users to take or upload a photo and find visually similar products using advanced image processing and search features.
 # 🎥 Demo & Screenshots
 Preview the core features for old version
